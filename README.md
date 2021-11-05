@@ -1,6 +1,7 @@
 # Basic_Phrases
 play sounds based on the button clicked. each button has a tag refered to the file name of the audio to make it easier to code
 like "audioBtn.getTag().toString()" 
+
 //define media player
 MediaPlayer mediaPlayer;
 
